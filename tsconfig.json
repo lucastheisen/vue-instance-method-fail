@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "paths": {
+        "src/*": ["./src/*"]
+    },
+    "sourceMap": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es5",
+    "typeRoots": [
+      "./node_modules/@types/"
+    ]
+  }
+}
