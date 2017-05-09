@@ -1,4 +1,4 @@
-# uidfail
+# Vue instance method + typescript fail
 
 > A Vue.js project
 
